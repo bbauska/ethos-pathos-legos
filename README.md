@@ -1,25 +1,27 @@
 ---
 title: |
-  ethos-pathos-logos
+  ethos..pathos..logos
   by Brian Bauska
 author: "bbauska"
 date created: "12/18/24 Wed 4+pm"
-date last editted: "12/18/24 Wed 4+pm"
+date last editted: "12/19/24 Thu 9+am"
 output: 
   markdown:
     with some style
 ---
-# ethos-pathos-legos
+# ethos..pathos..legos
 
 <p>Think of it this way: there are three ways one can argue a case: (1) by presenting 
 yourself as an authority on the subject (ethos), (2) by convincing the listener that 
 you have good intentions (pathos), and (3) by building a logical case based on 
 objective evidence (logos).</p>
 
+<h4>
 <blockquote>
-Don’t just embrace the crazy,
+Don’t just embrace the crazy,<br>
 sidle up and lick its ear.
 </blockquote>
+</h4>
 
 <p>A problem with using ethos (1) and pathos (2) to persuade is that you can convince people 
 of your position even if you're wrong. However, logos (3) only works if you're right (or 
@@ -81,6 +83,6 @@ that they need to climb out of that hole before they can even begin to present t
 arguments.</p>
 
 <blockquote>
-The More you Learn
+The More you Learn,<br>
 The Less you Know
 </blockquote>
