@@ -54,6 +54,7 @@ for it to just take it on faith.</p>
 evolution itself, but directed against the credentials (ethos) and motives (pathos) of 
 those who argue for the theory:</p>
 
+<h4>
 <blockquote>
 It's only a theory (ethos)<br>
 scientific "truths" are always being corrected (ethos)<br>
@@ -71,6 +72,7 @@ Without a literal understanding of the Bible there is no basis for morality (pat
 Without a literal understanding of the Bible there is no basis for logic or science (ethos)<br>
 Darwin invented evolution because he was a bitter, disaffected Christian (pathos)
 </blockquote>
+</h4>
 
 <p>Added by suggestion of:</p>
 <p>In particular when discussing creation vs. evolution, the pastor who lives in the local 
@@ -82,7 +84,9 @@ hole in terms of authority and trustworthiness with Bible Belt Christians, and n
 that they need to climb out of that hole before they can even begin to present their logical 
 arguments.</p>
 
+<h4>
 <blockquote>
 The More you Learn,<br>
 The Less you Know
 </blockquote>
+</h4>
