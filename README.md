@@ -57,14 +57,14 @@ those who argue for the theory:</p>
 <h4>
 <blockquote>
 It's only a theory (ethos)<br>
-scientific "truths" are always being corrected (ethos)<br>
+Scientific "truths" are always being corrected (ethos)<br>
 Atheism is a religion too (ethos)<br>
 You can’t really know because you weren’t there/you’ve never seen evolution happen (ethos)<br>
 It takes as much faith to believe in Darwin as it does to believe in creation (ethos)<br>
 Scientists are blinded by their worship of Darwin (pathos)<br>
 Atheists use evolution as an excuse to rebel against God's authority (pathos)<br>
 I come against thee, Satan! The Word of God is true! (pathos/ethos)<br>
-Evolution is a “theory in crisis" (ethos)<br>
+Evolution is a “"theory in crisis"“ (ethos)<br>
 Evidence x in support of evolution was revealed to be a hoax (pathos)<br>
 Evolutionary scientists want to admit that evolution is false but are afraid they’ll lose 
 their jobs if they tell the truth (pathos)<br>
